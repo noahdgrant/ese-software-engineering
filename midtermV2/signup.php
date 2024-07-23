@@ -38,7 +38,7 @@ session_start();
         </header>
         <main id="page" class="container">
             <div class="w-50 position-absolute top-50 start-50 translate-middle">
-                <form class="needs-validation" id="signup" action="./login.php" method="post" novalidate>
+                <form class="needs-validation" id="signup" action="./php/create_account.php" method="post" novalidate>
                     <fieldset>
                         <legend>Sign Up</legend>
                         <div class="mb-3">
